@@ -57,7 +57,7 @@ void originalText(const char* cipher_text, const char* key, char* orig_text) {
 }
 
 int main() {
-    char str[] = "HARSAYAZHENI";
+    char str[] = "Yamesh";
     char keyword[] = "HELLO";
     char key[100];
     char cipher_text[100];
@@ -75,7 +75,7 @@ int main() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/29fe3469-2f56-4feb-ac89-32f7bfc3fcb4)
+![Screenshot 2024-09-04 161110](https://github.com/user-attachments/assets/97da8ef6-63eb-4937-b2a9-f7911c1db153)
 
 ## RESULT:
   Thus the Vigenere Cipher substitution technique had been implemented successfully.
